@@ -22,7 +22,7 @@ pod "BlinkingLabel"
 
 ## Author
 
-Gabriel Cuesta Arza, gabriel.cuesta@extern.isban.com
+Gabriel Cuesta Arza, gabicuesta@gmail.com
 
 ## License
 
